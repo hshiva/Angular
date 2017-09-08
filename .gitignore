@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AngularDemo/.vs
+/AngularDemo/AngularDemo/Properties
+/AngularDemo/AngularDemo/obj/Debug
+/AngularDemo/AngularDemo/node_modules
+/AngularDemo/AngularDemo/bin
+/AngularDemo/packages
